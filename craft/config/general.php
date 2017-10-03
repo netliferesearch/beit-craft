@@ -26,7 +26,7 @@ return array(
         'defaultSearchTermOptions' => array( /* Fuzzy search, removes need to end search term with an asterix */
             'subLeft' => false,
             'subRight' => true,
-        ),      
+        ),
         'generateTransformsBeforePageLoad' => true,
         'defaultCpLanguage' => 'en', /* Default language for Control Panel */
         'defaultWeekStartDay' => '1', /* Sets start of the week on Mondays */
@@ -53,10 +53,10 @@ return array(
     'herokuapp.com' => array(
         'omitScriptNameInUrls' => true,
         'devMode' => false, /* set this to true if you want more verbose error messages on herkou */
-        'siteUrl' => 'https://{{name}}.herokuapp.com/', /* remember to change {{name}} to your heroku app */
+        'siteUrl' => 'https://general.php.herokuapp.com/', /* remember to change {{name}} to your heroku app */
         'postLoginRedirect' => '/',
         'environmentVariables' => array(
-            'siteUrl' => 'https://{{name}}.herokuapp.com', /* remember to change {{name}} to your heroku app */
+            'siteUrl' => 'https://beit-craft.herokuapp.com', /* remember to change {{name}} to your heroku app */
             'basePath' => realpath(getcwd() . '/public/')
         )/*,
         Enable these config settings to properly store php sessions in Redis
