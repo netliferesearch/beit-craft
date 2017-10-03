@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Netlife Research: Craft Starter
 
 *Read through the readme*, and if you are stuck, don't hesitate to ask in either #frontend or #craft in Slack. If you have made some smart improvement to the tooling or setup of in your Craft procject, _please contribute to this starter by making a pull request_.
@@ -133,3 +134,8 @@ And if you still have problems, try this:
 >Peow peow!
 
 - Amazon S3: Craft CMS 2.x doesn't support bucket location Frankfurt because it uses a newer authentication method.
+=======
+# BEIT - Landingsside til konferansen BEIT 2017
+
+beit.stormkastkonferansen.no
+>>>>>>> 31e52e9c64a465120774741371ee5089fe20e828
